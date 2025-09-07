@@ -11,6 +11,16 @@
 ## OTHERS
 
 * [Intrebari frecvente.](others/freq.md)
+* [Informatii Jobs.](others/informatii-jobs./README.md)
+  * [Mecanic de Locomotiva.](others/informatii-jobs./mecanic-de-locomotiva..md)
+  * [Spalator de Geamuri.](others/informatii-jobs./spalator-de-geamuri..md)
+  * [Scafandru Miner.](others/informatii-jobs./scafandru-miner..md)
+  * [Constructor.](others/informatii-jobs./constructor..md)
+  * [Hunters.](others/informatii-jobs./hunters..md)
+  * [Gunoier.](others/informatii-jobs./gunoier..md)
+  * [Pescar.](others/informatii-jobs./pescar..md)
+  * [Postas.](others/informatii-jobs./postas..md)
+  * [Miner.](others/informatii-jobs./miner..md)
 * [Cod Penal.](others/cod-penal..md)
 
 ## Shop
