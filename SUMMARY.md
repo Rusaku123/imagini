@@ -12,3 +12,7 @@
 
 * [Intrebari frecvente.](others/freq.md)
 * [Cod Penal.](others/cod-penal..md)
+
+## Shop
+
+* [Informatii plati.](shop/informatii-plati..md)
