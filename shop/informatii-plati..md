@@ -1,4 +1,5 @@
 ---
+icon: money-bills
 layout:
   width: default
   title:
