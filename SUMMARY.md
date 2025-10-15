@@ -4,9 +4,10 @@
 
 * [Despre noi.](README.md)
 * [Autentificare.](info/despre-noi-1.md)
-* [Regulament general.](info/regulament-general.md)
-* [Regulament staff.](info/regulament-staff.md)
-* [Regulament sanctiuni.](info/sanctiuni.md)
+* [Regulamente](info/regulament-general/README.md)
+  * [Regulament general.](info/regulament-general/regulament-general.md)
+  * [Regulament staff.](info/regulament-general/regulament-staff.md)
+  * [Regulament sanctiuni.](info/regulament-general/sanctiuni.md)
 
 ## OTHERS
 
