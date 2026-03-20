@@ -155,7 +155,7 @@ Pit Stop-ul este o manevra de oprire a mașinii prin intrarea în lateral sau î
 
 ## <mark style="color:orange;">**Actiuni teroriste.**</mark>
 
-Este strict interzis sa faci roleplay de acest gen. Trebuie sa discuți despre fiecare detaliu cu un membru High Staff (Admin 3+) și fiecare lucru pe care dorești să-l practici in actiunea respectiva. De asemenea dacă vi se oferă permisiunea unui membru High Staff va urmări toată acțiunea roleplay pe care urmează sa fie efectuata.
+Este strict interzis sa faci roleplay de acest gen. Trebuie sa discuți despre fiecare detaliu cu un membru High Staff (Administrator +) și fiecare lucru pe care dorești să-l practici in actiunea respectiva. De asemenea dacă vi se oferă permisiunea unui membru High Staff va urmări toată acțiunea roleplay pe care urmează sa fie efectuata.
 
 ***
 
