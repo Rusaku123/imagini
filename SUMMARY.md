@@ -13,15 +13,12 @@
 
 * [Intrebari frecvente.](others/freq.md)
 * [Informatii Jobs.](others/jobs/README.md)
-  * [Mecanic de Locomotiva.](others/jobs/mecanic-de-locomotiva..md)
-  * [Spalator de Geamuri.](others/jobs/spalator-de-geamuri..md)
-  * [Scafandru Miner.](others/jobs/scafandru-miner..md)
-  * [Constructor.](others/jobs/constructor..md)
-  * [Hunters.](others/jobs/hunters..md)
-  * [Gunoier.](others/jobs/gunoier..md)
-  * [Pescar.](others/jobs/pescar..md)
-  * [Postas.](others/jobs/postas..md)
+  * [Electrician.](others/jobs/electrician..md)
+  * [Lumberjack.](others/jobs/lumberjack..md)
   * [Miner.](others/jobs/miner..md)
+  * [OilRig.](others/jobs/oilrig..md)
+  * [Treasure Hunter.](others/jobs/treasure-hunter..md)
+  * [Window Cleaning.](others/jobs/window-cleaning..md)
 * [Cod Penal.](others/cod-penal..md)
 
 ## Shop
