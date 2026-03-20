@@ -18,28 +18,24 @@ icon: question
 
 ## <mark style="color:orange;">**2. Ce job se merită să fac prima dată?**</mark>
 
-* Prima dată când intri pe server, este recomandat să faci orice job care nu necesită ore. Toate joburile aduc un profit, indiferent care este acela. Poți să găsești mai multe informații pe (⁠👷〡practicare-job).
+* Prima dată când intri pe server, este recomandat să faci orice job care nu necesită ore. Toate joburile aduc un profit, indiferent care este acela. Poți să găsești mai multe informații la secțiunea 'Informații Jobs' de mai jos.
 
-## <mark style="color:orange;">**3. Cum pot trece de la gang la mafie?**</mark>
+## <mark style="color:orange;">3.</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Unde este shop-ul și cum pot dona?**</mark>
 
-* Înainte de o mafie oficială, o să primești un gang (cu grade pe joc, desigur) dacă ai câțiva prieteni care se pot alătura, iar după ce faci taskul de la sindicat, o să ai o mafie oficială pe server.
+* Orice plată este făcută pe [<mark style="color:orange;">**discord.gg/flamerp**</mark>](https://discord.gg/flamerp/), iar restul beneficiilor neprezentate pe shop se află In-Game, folosind comanda **\[/shop]** cu ajutorul <mark style="color:orange;">**FL Coins-urilor**</mark>.
 
-## <mark style="color:orange;">4.</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Unde este shop-ul și cum pot dona?**</mark>
-
-* Orice plată este făcută pe [<mark style="color:orange;">**store.flamerp.ro**</mark>](https://store.flamerp.ro/), iar restul beneficiilor neprezentate pe shop se află In-Game, folosind comanda **\[/shop]** cu ajutorul <mark style="color:orange;">**FL Coins-urilor**</mark>.
-
-## <mark style="color:orange;">5. Primesc ceva dacă ofer Server Boost?</mark>
+## <mark style="color:orange;">4. Primesc ceva dacă ofer Server Boost?</mark>
 
 Desigur, oferim beneficii pentru cei care ne ajută cu server boost-uri, iar beneficiile sunt următoarele:
 
-* **x1 Server Boost:** $15.000.000
-* **x2 Server Boost:** $20.000.000 + VIP 30 zile
+* **x1 Server Boost:** $2.500.000 + 5 FL Coins.
+* **x2 Server Boost:** $3.000.000 + VIP 1 30 zile
 
-<mark style="color:red;">**IMPORTANT**</mark>**:** Server boost-urile trebuie să țină minim 30 de zile.
+<mark style="color:red;">**IMPORTANT**</mark>**:** Server boost-urile trebuie să țină minim 30 de zile, in caz contrar balanta va fi trecuta pe minus cu suma respectiva.
 
-## <mark style="color:orange;">**6. Când a fost deschis server-ul și cine sunt fondatorii?**</mark>
+## <mark style="color:orange;">**5. Când a fost deschis si redeschis ulterior server-ul; Cine este fondatorul?**</mark>
 
-* Acest server a fost deschis pe data de 30 iulie 2025, iar fondatorii sunt Rusaku și Ștefan.
+* Acest server a fost deschis pe data de 30 iulie 2025 si redeschis dupa restructurare pe 21 martie 2026, iar fondatorul este Rusaku.
 
 ## <mark style="color:orange;">**7. O să se ofere vreodată wipe?**</mark>
 
@@ -47,4 +43,4 @@ Desigur, oferim beneficii pentru cei care ne ajută cu server boost-uri, iar ben
 
 ***
 
-**Va multumim pentru citirea intrebarilor frecvente, iar daca mai aveti si alte intrebari, asteptam un mesaj pe** [<mark style="color:orange;">**discord**</mark>](https://dsc.gg/flamero1)<mark style="color:orange;">**.**</mark>
+**Va multumim pentru citirea intrebarilor frecvente, iar daca mai aveti si alte intrebari, asteptam un mesaj pe** [<mark style="color:orange;">**discord**</mark>](https://discord.gg/flamerp/)<mark style="color:orange;">**.**</mark>

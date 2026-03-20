@@ -1,26 +1,12 @@
 ---
 icon: money-bills
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # Informatii plati.
 
 ***
 
-## <mark style="color:orange;">**Unde sunt toate categoriile de plată**</mark> <mark style="color:orange;">și unde se fac plățile?</mark>
+## <mark style="color:orange;">**Unde sunt toate categoriile de plată**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">și unde se fac plățile?</mark>
 
 Toate plățile se fac exclusiv prin [<mark style="color:orange;">**Tebex-ul oficial al serverului**</mark>](https://app.gitbook.com/u/fDm2WFEtwPg9l4sAfZu0TpVwtsz1)**.**
 

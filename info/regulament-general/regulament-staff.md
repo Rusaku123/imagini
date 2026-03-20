@@ -3,20 +3,6 @@ description: >-
   Acesta este regulamentul general pe care o să vă rog să îl luați la
   cunoștință.
 icon: triangle-exclamation
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # Regulament staff.
@@ -27,9 +13,6 @@ layout:
 
 Info: Vă voi ruga să citiți cu atenție acest regulament și să îl luați în serios.
 
-* Membrii staff trebuie să aibă poza adecvată (**LOGO FLAME**).
-* Membrii staff trebuie să aibă în BIO: **DSC.GG/FLAMERO1**.
-
 ***
 
 ## <mark style="color:orange;">**Tickete.**</mark> <a href="#tickete" id="tickete"></a>
@@ -37,7 +20,7 @@ Info: Vă voi ruga să citiți cu atenție acest regulament și să îl luați �
 * Este interzis să „cerșiți” grade în staff. Gradele se primesc doar prin decizia High Staff.
 * Orice BAN acordat trebuie să aibă un motiv concret, respectând **Sanțiunile Jucători**.
 * Nu răspundeți la ticketele care implică acuzații asupra voastră fără a vi se cere opinia de către persoana responsabilă.
-* Reclamațiile asupra unui membru staff sunt gestionate doar de **Admin 4+**.
+* Reclamațiile asupra unui membru staff sunt gestionate doar de **Head of Staff+ /** **Manager Low sau High Staff** in functie de situatie.
 * Trebuie să cunoașteți sistemele și modul de funcționare al serverului.
 * Oferirea de informații eronate jucătorilor poate duce la sancțiuni, în funcție de gravitate.
 * Respectați între voi ca membri staff și diferențele de grad.
@@ -70,7 +53,7 @@ Info: Vă voi ruga să citiți cu atenție acest regulament și să îl luați �
 
 * Obligativitatea de a face tickete pe joc.
 * Trebuie să îndeplinească minimul de tickete pe săptămână + **5 ore în last 7 zile**.
-* Să ajute **Helperii de Nivel 1** și restul membrilor în activități.
+* Să ajute **Helperii Juniori** și restul membrilor în activități.
 * Verificarea logurilor facțiunilor dacă cineva are nevoie de intervenție.
 * Supravegherea activității staff-ului.
 
@@ -82,27 +65,26 @@ Info: Vă voi ruga să citiți cu atenție acest regulament și să îl luați �
 * Adminul este **obligat să filmeze** PC-Check-ul.
 * Este interzis abuzul informațiilor obținute prin PC-Check: **BAN PERMANENT + RASPUNDERE LEGAL**Ă.
 * Nu se divulgă informații din PC-Check decât administratorului.
+* Acesta se face doar de catre: **none** (membrii care nu sunt trecuti, nu au voie sa faca, exceptia fiind Rusaku).
 
 ***
 
 ## <mark style="color:orange;">**Sanctiuni.**</mark> <a href="#sanctiuni" id="sanctiuni"></a>
 
-| Abatere                                 | Sancțiune                                      |
-| --------------------------------------- | ---------------------------------------------- |
-| Abuz de grad                            | REMOVE + BAN permanent                         |
-| Lipsa BIO                               | Prima abatere: AV, dacă nu adaugă în 24h → 1/3 |
-| Lipsa poză                              | 1/3                                            |
-| Lipsa ID în nume                        | 1/3                                            |
-| Bind „/TK”                              | 1/3                                            |
-| Lipsa filmare de la ticket              | 1/3                                            |
-| Poza staff lipsă                        | 1/3                                            |
-| Sancțiune greșită                       | 1/3                                            |
-| Sancționarea în propriul RP             | 1/3                                            |
-| Nu e pe VC zilnic                       | 1/3                                            |
-| Jucarea pe alte servere                 | OUT                                            |
-| Cersit UP                               | DOWN                                           |
-| Divulgarea informațiilor din zona staff | BAN permanent (abuz de grad)                   |
-| Comportament inadecvat                  | 1/3 sau REMOVE, în funcție de gravitate        |
+| Abatere                                 | Sancțiune                               |
+| --------------------------------------- | --------------------------------------- |
+| Abuz de grad                            | REMOVE + BAN permanent                  |
+| Lipsa ID în nume                        | Avertizare, urmand 1/3.                 |
+| Bind „/TK”                              | 1/3, urmand OUT la a 2-a abatere.       |
+| Lipsa filmare de la ticket              | 1/3                                     |
+| Poza staff lipsă                        | 1/3                                     |
+| Sancțiune greșită                       | 1/3                                     |
+| Sancționarea în propriul RP             | 1/3                                     |
+| Nu e pe VC zilnic                       | 1/3                                     |
+| Jucarea pe alte servere                 | OUT                                     |
+| Cersit UP                               | DOWN                                    |
+| Divulgarea informațiilor din zona staff | BAN permanent (abuz de grad)            |
+| Comportament inadecvat                  | 1/3 sau REMOVE, în funcție de gravitate |
 
 ***
 

@@ -1,19 +1,5 @@
 ---
 icon: server
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # Autentificare.
@@ -22,7 +8,7 @@ layout:
 
 ## <mark style="color:orange;">**De ce ai nevoie ca să te conectezi pe server?**</mark> <a href="#de-ce-ai-nevoie-ca-sa-te-conectezi-pe-server" id="de-ce-ai-nevoie-ca-sa-te-conectezi-pe-server"></a>
 
-* Ai nevoie mai întâi să ai un cont de Discord și să fii pe [<mark style="color:orange;">server-ul nostru de Discord</mark>](https://dsc.gg/flamero1).
+* Ai nevoie mai întâi să ai un cont de Discord și să fii pe [<mark style="color:orange;">server-ul nostru de Discord</mark>](https://discord.gg/flamerp/).
 * Contul tău de Discord trebuie sa fie verificat cu numărul de telefon.
 * Trebuie să ai gradul de **#Flame Member.**
 
@@ -83,4 +69,4 @@ Apasă pe react la emoji-ul cu bifă.
 
 ***
 
-<mark style="color:orange;">**Va multumim pentru citirea informatiilor despre autentificare, iar daca mai aveti si alte intrebari, asteptam un mesaj pe**</mark> [<mark style="color:orange;">**discord**</mark>](https://dsc.gg/flamero1)<mark style="color:orange;">**. Va asteptam pe server!**</mark>
+<mark style="color:orange;">**Va multumim pentru citirea informatiilor despre autentificare, iar daca mai aveti si alte intrebari, asteptam un mesaj pe**</mark> [<mark style="color:orange;">**discord**</mark>](https://discord.gg/flamerp/)<mark style="color:orange;">**. Va asteptam pe server!**</mark>

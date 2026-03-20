@@ -3,20 +3,6 @@ description: >-
   Acesta este regulamentul general pe care o să vă rog să îl luați la
   cunoștință.
 icon: ban
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # Regulament general.
@@ -106,8 +92,7 @@ Chicken-Run este atunci cand un jucator fuge dintr-o parte în alta astfel incat
 
 ## <mark style="color:orange;">**No-Fear (NF).**</mark>
 
-No-Fear-ul prezinta actiunile unui jucator care alege sa nu simuleze frica atunci cand este necesar. Niste exemple sunt notate mai jos:\
-
+No-Fear-ul prezinta actiunile unui jucator care alege sa nu simuleze frica atunci cand este necesar. Niste exemple sunt notate mai jos:<br>
 
 * Ești într-o zona rau famata a orașului, niște persoane dubioase se țin după tine și într-o zona mai retrasa scot arma la tine si incep sa te ameninte cu ea iar tu în momentul acela începi sa îl iei la pumni.
 * Sari pe o rampă cu 80 km/h cu un autovehicul.
@@ -207,8 +192,7 @@ Abuzul sexual (violul), canibalismul, necrofilia, pedofilia sau alte tipuri de r
 
 ***
 
-În momentul în care dorești sa iei pe cineva în \[/cara], ești obligat sa respecti următoarele reguli:\
-
+În momentul în care dorești sa iei pe cineva în \[/cara], ești obligat sa respecti următoarele reguli:<br>
 
 * Este strict interzis sa alergi cu cineva în \[/cara] indiferent dacă sunteți mai mulți ca faceti roleplay ca il carati.
 * Este permis sa iei pe cineva în \[/cara] fără sa faci roleplay deoarece oricum se face o animație.
@@ -279,8 +263,7 @@ Corupția nu este permisă. Aceasta regula a fost implementată pentru oamenii d
 <mark style="color:$danger;">Cum poți sa faci corupție ca un Medic?</mark>
 
 * Sa nu ajuti oameni răniți doar pentru ca îi recunosti si ai pica pe aceștia.
-* Sa ieși din departament și să nu predai tot echipamentul obtinut din cadrul departamentului.\
-
+* Sa ieși din departament și să nu predai tot echipamentul obtinut din cadrul departamentului.<br>
 
 <mark style="color:$warning;">Instigarea la corupție este și ea sanctionabila, nu aveți voie sa instigati medici/polițiști la corupție.</mark>
 
@@ -298,11 +281,9 @@ Deschiderea OOC in IC reprezinta mentionarea termenilor OOC intr-un roleplay.&#x
 * \[/me scrie pe foaie “Permiti chineza?”].
 * \[/me face semne intrebandu-l daca e admin].
 * Esti admin?
-* Permiti Out-Of-Character?\
+* Permiti Out-Of-Character?<br>
 
-
-<mark style="color:$danger;">Nu aveți voie sa folositi \[/me] pentru a scrie anumite chestii Out-Of-Character.</mark>\
-
+<mark style="color:$danger;">Nu aveți voie sa folositi \[/me] pentru a scrie anumite chestii Out-Of-Character.</mark><br>
 
 Jucătorii care nu fac parte din echipa ‘Staff’ și nu sunt la un ticket, nu au dreptul de a aproba vorbitul in “chineza” sau mai pe scurt, Out-Of-Character. Doar un membru ‘Staff’ aflat la un ticket are permisiunea de a aproba vorbitul OOC. Asta nu înseamnă ca ar trebui sa va duceti la oameni aleatoriu si sa ii intrebi daca acestia permit chineza, o sa fiți sancționați pentru “Post Hunting”.
 
@@ -312,8 +293,7 @@ Jucătorii care nu fac parte din echipa ‘Staff’ și nu sunt la un ticket, nu
 
 Aceasta regula este implementata special pentru oamenii care vaneaza intentionat anumiti jucătorii de pe comunitate cu scopul de a le face ticket sau de a ii sanctiona.
 
-* Jucătorul X, sta și se uita dupa jucătorul Y încontinuu și la fiecare greșeală, jucătorul X apăsa tasta ‘HOME’ și îi face o reclamatie pe panel sau cu ajutorul unui ticket în joc. Acest lucru nu este permis dacă ești rău intenționat sa il sanctionezi pe acel jucător de mai multe ori sau faci in asa fel, in cat sa il instigi la a gresi.\
-
+* Jucătorul X, sta și se uita dupa jucătorul Y încontinuu și la fiecare greșeală, jucătorul X apăsa tasta ‘HOME’ și îi face o reclamatie pe panel sau cu ajutorul unui ticket în joc. Acest lucru nu este permis dacă ești rău intenționat sa il sanctionezi pe acel jucător de mai multe ori sau faci in asa fel, in cat sa il instigi la a gresi.<br>
 
 ***
 
@@ -327,13 +307,11 @@ Este strict interzis sa faci ‘Cop Bait’ la Poliție pentru a fii urmărit. C
 
 ## <mark style="color:orange;">**Scam.**</mark>
 
-Este strict interzis sa dai scam peste suma de 100.000.000$ unui alt jucator. Aceasta regula te protejează doar cand dorești sa faci un schimb de masini sau dorești sa vinzi o masina prin folosirea unui contract. Orice alta modalitate de a vinde masina nu este recomandata de către staff-ul Flame.\
+Este strict interzis sa dai scam peste suma de 50.000.000$ unui alt jucator. Aceasta regula te protejează doar cand dorești sa faci un schimb de masini sau dorești sa vinzi o masina prin folosirea unui contract. Orice alta modalitate de a vinde masina nu este recomandata de către staff-ul Flame.<br>
 
-
-* Dacă ești păcălit (scam-uit) cu mai mult de $100.000.000, poți face un ticket cu o filmare completă a situației. Cel care te-a păcălit va fi sancționat, dar NU îți putem da înapoi banii sau itemele.
-* Pentru tranzacții peste $100.000.000, poți chema un admin să asiste.
-* Scam-urile sub $100.000.000 sunt considerate IC și se fac pe propriul risc.\
-
+* Dacă ești păcălit (scam-uit) cu mai mult de $50.000.000, poți face un ticket cu o filmare completă a situației. Cel care te-a păcălit va fi sancționat, dar NU îți putem da înapoi banii sau itemele.
+* Pentru tranzacții peste $50.000.000, poți chema un admin să asiste.
+* Scam-urile sub $50.000.000 sunt considerate IC și se fac pe propriul risc.<br>
 
 <mark style="color:$danger;">**Cum arata un scam?**</mark>&#x20;
 
@@ -411,15 +389,13 @@ Este strict interzis sa dai scam peste suma de 100.000.000$ unui alt jucator. Ac
 
 ## <mark style="color:orange;">**Ilegalitati pe Cayo Perico.**</mark>
 
-Nu aveți voie sa răpiți, împușcați la Aeroport cat timp nu este razie DIICOT.\
-
+Nu aveți voie sa răpiți, împușcați la Aeroport cat timp nu este razie DIICOT.<br>
 
 ***
 
 ## <mark style="color:orange;">Sfidare Staff.</mark>
 
-Membru staff care a venit la ticketul vostru este complet raspunzator de deciziile pe care le ia. Nu aveti voie sa solicitati prezenta unui grad superior sau al altei persoane din staff, acest lucru se considera drept sfidare staff. Daca sanctiunea oferita de admin nu va convine, aveti obligatia de a face o reclamatie impotriva acestuia!\
-
+Membru staff care a venit la ticketul vostru este complet raspunzator de deciziile pe care le ia. Nu aveti voie sa solicitati prezenta unui grad superior sau al altei persoane din staff, acest lucru se considera drept sfidare staff. Daca sanctiunea oferita de admin nu va convine, aveti obligatia de a face o reclamatie impotriva acestuia!<br>
 
 ***
 
