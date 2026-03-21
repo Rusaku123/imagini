@@ -307,11 +307,11 @@ Este strict interzis sa faci ‘Cop Bait’ la Poliție pentru a fii urmărit. C
 
 ## <mark style="color:orange;">**Scam.**</mark>
 
-Este strict interzis sa dai scam peste suma de 50.000.000$ unui alt jucator. Aceasta regula te protejează doar cand dorești sa faci un schimb de masini sau dorești sa vinzi o masina prin folosirea unui contract. Orice alta modalitate de a vinde masina nu este recomandata de către staff-ul Flame.<br>
+Este strict interzis sa dai scam peste suma de 25.000.000$ unui alt jucator. Aceasta regula te protejează doar cand dorești sa faci un schimb de masini sau dorești sa vinzi o masina prin folosirea unui contract. Orice alta modalitate de a vinde masina nu este recomandata de către staff-ul Flame.<br>
 
-* Dacă ești păcălit (scam-uit) cu mai mult de $50.000.000, poți face un ticket cu o filmare completă a situației. Cel care te-a păcălit va fi sancționat, dar NU îți putem da înapoi banii sau itemele.
-* Pentru tranzacții peste $50.000.000, poți chema un admin să asiste.
-* Scam-urile sub $50.000.000 sunt considerate IC și se fac pe propriul risc.<br>
+* Dacă ești păcălit (scam-uit) cu mai mult de $25.000.000, poți face un ticket cu o filmare completă a situației. Cel care te-a păcălit va fi sancționat, dar NU îți putem da înapoi banii sau itemele.
+* Pentru tranzacții peste $25.000.000, poți chema un admin să asiste.
+* Scam-urile sub $25.000.000 sunt considerate IC și se fac pe propriul risc.<br>
 
 <mark style="color:$danger;">**Cum arata un scam?**</mark>&#x20;
 
@@ -333,7 +333,7 @@ Este strict interzis sa dai scam peste suma de 50.000.000$ unui alt jucator. Ace
 
 * <mark style="color:$primary;">Pentru a jefuii o persoana, ai nevoie de minim 5 ore jucate pe server, cat si persoana pe care o jefuiesti are nevoie de minim 5 ore jucate pe server</mark> (e permis meta-ul pentru a face rost de ID-ul lui si de a da /id pentru a vedea orele lui).
 * Pe Sandy si Parcarea Rosie, jafurile sunt permise 24/7.
-* Intervalul orar în care puteți jefuii pe Grove Street este 22:00-07:00.
+* Intervalul orar în care puteți jefuii pe Grove Street este 22:00 - 07:00.
 * Nu aveți voie sa jefuiti persoanele care fac job legal.
 * Nu aveți voie sa jefuiti Polițiști / Medici ON Duty.
 * Nu aveți voie sa fortati persoane sa scoată bani din contul bancar.
