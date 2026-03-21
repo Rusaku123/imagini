@@ -331,7 +331,7 @@ Este strict interzis sa dai scam peste suma de 25.000.000$ unui alt jucator. Ace
 
 ## <mark style="color:orange;">**Jafuri Persoane.**</mark>
 
-* <mark style="color:$primary;">Pentru a jefuii o persoana, ai nevoie de minim 5 ore jucate pe server, cat si persoana pe care o jefuiesti are nevoie de minim 5 ore jucate pe server</mark> (e permis meta-ul pentru a face rost de ID-ul lui si de a da /id pentru a vedea orele lui).
+* <mark style="color:$primary;">Pentru a jefuii o persoana, ai nevoie de minim 10 ore jucate pe server, cat si persoana pe care o jefuiesti are nevoie de minim 10 ore jucate pe server</mark> (e permis meta-ul pentru a face rost de ID-ul lui si de a da /id pentru a vedea orele lui).
 * Pe Sandy si Parcarea Rosie, jafurile sunt permise 24/7.
 * Intervalul orar în care puteți jefuii pe Grove Street este 22:00 - 07:00.
 * Nu aveți voie sa jefuiti persoanele care fac job legal.
