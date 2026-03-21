@@ -343,7 +343,8 @@ Este strict interzis sa dai scam peste suma de 50.000.000$ unui alt jucator. Ace
 * Nu aveți voie sa jefuiti arme de poliție.
 * Nu aveți voie sa jefuiti veste/medicale.
 * Nu aveți voie sa jefuiti aceeași persoana de mai multe ori într-un interval mai mic de 2 ore.
-* <mark style="color:$warning;">Suma maxima care poate fi ceruta intr-un jaf sau in schimbul unui ostatic este de</mark> <mark style="color:$warning;"></mark>_<mark style="color:$warning;">10.000.000$</mark>_<mark style="color:$warning;">.</mark>&#x20;
+* <mark style="color:$primary;">Suma maxima care poate fi ceruta unui jucator pe care il jefuiesti este de</mark> <mark style="color:$primary;"></mark>_<mark style="color:$primary;">3.500.000$</mark>_<mark style="color:$primary;">.</mark>
+* <mark style="color:$warning;">Suma maxima care poate fi ceruta intr-un jaf sau in schimbul unui ostatic este de</mark> <mark style="color:$warning;"></mark>_<mark style="color:$warning;">5.000.000$</mark>_<mark style="color:$warning;">.</mark>&#x20;
 
 ***
 
