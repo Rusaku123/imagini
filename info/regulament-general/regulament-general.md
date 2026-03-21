@@ -331,6 +331,8 @@ Este strict interzis sa dai scam peste suma de 50.000.000$ unui alt jucator. Ace
 
 ## <mark style="color:orange;">**Jafuri Persoane.**</mark>
 
+<mark style="color:orange;">**Pentru a jefuii o persoana, ai nevoie de minim 5 ore jucate pe server.**</mark>
+
 * Pe cayo jafurile sunt permise 24/7.
 * Pe Sandy Jafurile sunt permise 24/7.
 * Intervalul orar în care puteți jefuii pe Grove Street este 21:00-07:00.
