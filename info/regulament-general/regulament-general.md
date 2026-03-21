@@ -202,7 +202,7 @@ Abuzul sexual (violul), canibalismul, necrofilia, pedofilia sau alte tipuri de r
 ## <mark style="color:orange;">**Ostatic.**</mark>
 
 * <mark style="color:$warning;">Este interzis sa tineti pe cineva ostatic fără cereți ceva pe el mai mult de o ora jumate</mark>. În cazul în care nu aveți cu cine sa vorbiți pentru înțelegere, aveți dreptul sa tineti ostaticul pana va răspunde cineva.
-* Este interzis sa cereti pe un ostatic o suma mai mare de _$10.000.000_ in bani sau bunuri.
+* Este interzis sa cereti pe un ostatic o suma mai mare de _$5.000.000_ in bani sau bunuri.
 * Este interzis sa aveți pretenții mari precum pe baza la un ostatic ca un lider sau o întreagă organizație sa prezinte fortat o locație.
 * Este obligatoriu ca după o înțelegere/negocieri pe baza unui ostatic sa va tine de cuvant si sa nu fie o înșelăciune la mijloc. Este valabil pentru ambele părți implicate.
 * Este interzis sa aveți pretenții din partea din partea poliției precum sa plece toate echipajele, sa lase toți armele sau exagerari foarte mari.
@@ -331,11 +331,9 @@ Este strict interzis sa dai scam peste suma de 50.000.000$ unui alt jucator. Ace
 
 ## <mark style="color:orange;">**Jafuri Persoane.**</mark>
 
-<mark style="color:orange;">**Pentru a jefuii o persoana, ai nevoie de minim 5 ore jucate pe server.**</mark>
-
-* Pe cayo jafurile sunt permise 24/7.
-* Pe Sandy Jafurile sunt permise 24/7.
-* Intervalul orar în care puteți jefuii pe Grove Street este 21:00-07:00.
+* <mark style="color:$primary;">Pentru a jefuii o persoana, ai nevoie de minim 5 ore jucate pe server, cat si persoana pe care o jefuiesti are nevoie de minim 5 ore jucate pe server</mark> (e permis meta-ul pentru a face rost de ID-ul lui si de a da /id pentru a vedea orele lui).
+* Pe Sandy si Parcarea Rosie, jafurile sunt permise 24/7.
+* Intervalul orar în care puteți jefuii pe Grove Street este 22:00-07:00.
 * Nu aveți voie sa jefuiti persoanele care fac job legal.
 * Nu aveți voie sa jefuiti Polițiști / Medici ON Duty.
 * Nu aveți voie sa fortati persoane sa scoată bani din contul bancar.
@@ -344,6 +342,7 @@ Este strict interzis sa dai scam peste suma de 50.000.000$ unui alt jucator. Ace
 * <mark style="color:$warning;">Nu aveți voie sa fortati persoane sa scoată masini din garaj pentru a le controla, respectiv jefuii.</mark>
 * Nu aveți voie sa jefuiti arme de poliție.
 * Nu aveți voie sa jefuiti veste/medicale.
+* Nu aveți voie sa jefuiti de mai mult de o singura arma un jucator si mai mult de x50 gloante.
 * Nu aveți voie sa jefuiti aceeași persoana de mai multe ori într-un interval mai mic de 2 ore.
 * <mark style="color:$primary;">Suma maxima care poate fi ceruta unui jucator pe care il jefuiesti este de</mark> <mark style="color:$primary;"></mark>_<mark style="color:$primary;">3.500.000$</mark>_<mark style="color:$primary;">.</mark>
 * <mark style="color:$warning;">Suma maxima care poate fi ceruta intr-un jaf sau in schimbul unui ostatic este de</mark> <mark style="color:$warning;"></mark>_<mark style="color:$warning;">5.000.000$</mark>_<mark style="color:$warning;">.</mark>&#x20;
