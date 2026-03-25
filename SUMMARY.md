@@ -9,18 +9,39 @@
   * [Regulament staff.](info/regulament-general/regulament-staff.md)
   * [Regulament sanctiuni.](info/regulament-general/sanctiuni.md)
 
-## OTHERS
+## INTRODUCERE
 
-* [Intrebari frecvente.](others/freq.md)
-* [Informatii Jobs.](others/jobs/README.md)
-  * [Electrician.](others/jobs/electrician..md)
-  * [Lumberjack.](others/jobs/lumberjack..md)
-  * [Miner.](others/jobs/miner..md)
-  * [OilRig.](others/jobs/oilrig..md)
-  * [Treasure Hunter.](others/jobs/treasure-hunter..md)
-  * [Window Cleaning.](others/jobs/window-cleaning..md)
-* [Cod Penal.](others/cod-penal..md)
+* [Intrebari frecvente.](introducere/freq.md)
+* [Informatii Jobs.](introducere/jobs/README.md)
+  * [Electrician.](introducere/jobs/electrician..md)
+  * [Lumberjack.](introducere/jobs/lumberjack..md)
+  * [Miner.](introducere/jobs/miner..md)
+  * [OilRig.](introducere/jobs/oilrig..md)
+  * [Treasure Hunter.](introducere/jobs/treasure-hunter..md)
+  * [Window Cleaning.](introducere/jobs/window-cleaning..md)
+* [Cod Penal.](introducere/cod-penal..md)
+
+## ACTIVITATI
+
+* [Market Rob](activitati/market-rob.md)
+* [Banking Rob](activitati/banking-rob.md)
+* [Pacific Rob](activitati/pacific-rob.md)
+* [Illegal Raceing](activitati/illegal-raceing.md)
 
 ## Shop
 
 * [Informatii plati.](shop/informatii-plati..md)
+
+## General
+
+* [Payday](general/payday.md)
+* [Rentals](general/rentals.md)
+* [Shop](general/shop.md)
+* [FPS Boost](general/fps-boost.md)
+* [Spitale](general/spitale.md)
+
+## Cont
+
+* [Animatii](cont/animatii.md)
+* [Arme](cont/arme.md)
+* [Page 1](cont/page-1.md)

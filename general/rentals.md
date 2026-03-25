@@ -1,0 +1,6 @@
+---
+icon: car-key
+---
+
+# Rentals
+
