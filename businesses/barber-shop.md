@@ -1,0 +1,6 @@
+---
+icon: mustache
+---
+
+# Barber Shop
+

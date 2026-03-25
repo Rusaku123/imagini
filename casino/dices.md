@@ -1,0 +1,6 @@
+---
+icon: dice
+---
+
+# Dices
+
