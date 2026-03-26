@@ -88,4 +88,3 @@ Info: Vă voi ruga să citiți cu atenție acest regulament și să îl luați �
 
 ***
 
-## <mark style="color:orange;">**VA MULTUMESC PENTRU CITIREA REGULAMENTULUI!**</mark>

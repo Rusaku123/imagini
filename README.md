@@ -30,13 +30,13 @@ Toate metodele de plată se pot afla la checkout-ul unui produs din shop, dar ș
 
 <summary>Toate metodele de plată.</summary>
 
-<figure><img src="../.gitbook/assets/image (5).png" alt="" width="269"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5).png" alt="" width="269"><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../.gitbook/assets/image (6).png" alt="" width="264"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6).png" alt="" width="264"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (7).png" alt="" width="270"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7).png" alt="" width="270"><figcaption></figcaption></figure>
 
 </details>
 

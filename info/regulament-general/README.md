@@ -15,4 +15,4 @@ Pentru a putea vedea regulamentele, trebuie sa apasati pe acest buton.
 
 ***
 
-## <mark style="color:orange;">**VA MULTUMESC ATENTIE!**</mark>
+**Va multumim pentru citirea regulamentelor, iar daca mai aveti si alte intrebari, asteptam un mesaj pe** [<mark style="color:orange;">**discord**</mark>](https://discord.gg/flamerp/)<mark style="color:orange;">**.**</mark>

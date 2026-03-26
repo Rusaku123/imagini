@@ -39,4 +39,3 @@ icon: ban
 
 ***
 
-## <mark style="color:orange;">**VA MULTUMESC PENTRU CITIREA SANCTIUNILOR!**</mark>

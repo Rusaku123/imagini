@@ -423,4 +423,3 @@ Nu ai voie să folosești trusă medicală pe o persoană pe care ai omorât-o, 
 
 ***
 
-## <mark style="color:orange;">**VA MULTUMESC PENTRU CITIREA REGULAMENTULUI!**</mark>

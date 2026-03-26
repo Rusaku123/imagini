@@ -69,4 +69,4 @@ Apasă pe react la emoji-ul cu bifă.
 
 ***
 
-<mark style="color:orange;">**Va multumim pentru citirea informatiilor despre autentificare, iar daca mai aveti si alte intrebari, asteptam un mesaj pe**</mark> [<mark style="color:orange;">**discord**</mark>](https://discord.gg/flamerp/)<mark style="color:orange;">**. Va asteptam pe server!**</mark>
+**Va multumim pentru citirea informatilor de autentificare, iar daca mai aveti si alte intrebari, asteptam un mesaj pe** [<mark style="color:orange;">**discord**</mark>](https://discord.gg/flamerp/)<mark style="color:orange;">**.**</mark>
