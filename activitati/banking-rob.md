@@ -7,7 +7,10 @@ icon: piggy-bank
 Acesta este un sistem care te va ajuta sa iti faci un venit pe server, insa acesta este unul <mark style="color:orange;">**ilegal**</mark>. Premile in urma unui jaf la banca, o sa fie acordate sub forma de <mark style="color:orange;">**bani murdari**</mark>.
 
 <mark style="color:orange;">**Itemele necesare pentru a da un jaf la magazin:**</mark>\
-Pentru a incepe un jaf la o banca, ai nevoie de <mark style="color:orange;">**x2 Secure Card**</mark> (le poti obtine de la Black Market / jucatori).
+\
+<mark style="color:orange;">**x2 Secure Card**</mark>&#x20;
+
+Obiectele pot fi obtinute de la Black Market / Jucatori.
 
 ## <mark style="color:orange;">**Cum functioneaza un jaf la banca?**</mark>
 

@@ -1,8 +1,12 @@
 # Table of contents
 
+## Shop
+
+* [Informatii plati.](README.md)
+
 ## INFORMATII UTILE <a href="#info" id="info"></a>
 
-* [Despre noi.](README.md)
+* [Despre noi.](<README (1).md>)
 * [Autentificare.](info/despre-noi-1.md)
 * [Regulamente](info/regulament-general/README.md)
   * [Regulament general.](info/regulament-general/regulament-general.md)
@@ -27,10 +31,6 @@
 * [Banking Rob](activitati/banking-rob.md)
 * [Pacific Rob](activitati/pacific-rob.md)
 * [Illegal Raceing](activitati/illegal-raceing.md)
-
-## Shop
-
-* [Informatii plati.](shop/informatii-plati..md)
 
 ## General
 

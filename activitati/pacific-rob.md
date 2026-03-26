@@ -6,8 +6,12 @@ icon: building-columns
 
 Acesta este un sistem care te va ajuta sa iti faci un venit pe server, insa acesta este unul <mark style="color:orange;">**ilegal**</mark>. Premile in urma unui jaf la banca, o sa fie acordate sub forma de <mark style="color:orange;">**bani murdari**</mark>.
 
-<mark style="color:orange;">**Itemele necesare pentru a da un jaf la Pacific Bank:**</mark>\
-Pentru a incepe un jaf la o banca, ai nevoie de <mark style="color:orange;">**x3 Thermale, x1 Laptop, x1 Laptop (itemele difera in functie de tipul de jaf ales)**</mark> (le poti obtine de la Black Market / jucatori).
+<mark style="color:orange;">**Itemele necesare pentru a da un jaf la Pacific BankȘ**</mark>\
+\
+<mark style="color:orange;">**x3 Thermale**</mark> \ <mark style="color:orange;">**x1 Laptop**</mark>\ <mark style="color:orange;">**x1 Lockpick**</mark>&#x20;
+
+Itemele difera in functie de tipul de jaf ales.\
+Obiectele pot fi obtinute de la Black Market / Jucatori.
 
 ## <mark style="color:orange;">**Cate modalitati de a da jaf ai?**</mark>
 
