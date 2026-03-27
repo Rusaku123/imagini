@@ -35,6 +35,8 @@
 ## General
 
 * [Payday](general/payday.md)
+* [Bonus Goal](general/bonus-goal.md)
+* [Quest-urile de inceput](general/quest-urile-de-inceput.md)
 * [Rentals](general/rentals.md)
 * [Shop](general/shop.md)
 * [FPS Boost](general/fps-boost.md)
