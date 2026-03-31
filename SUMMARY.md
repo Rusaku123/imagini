@@ -69,6 +69,8 @@
 ## EVENIMENTE
 
 * [Lucky Easter](evenimente/lucky-easter.md)
+* [Easter Hunt](evenimente/easter-hunt.md)
+* [Air Egg](evenimente/air-egg.md)
 
 ## FACTIUNI
 
