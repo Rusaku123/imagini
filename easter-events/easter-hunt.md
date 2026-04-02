@@ -4,8 +4,12 @@ icon: microscope
 
 # Easter Hunt
 
-scrie ca aici odata la 30m se spawneaza un ou pe care trb sa l caute, cand se spawneaza e o raza pe harta + un blips cu semnu intrebarii si ca in raza aia se afla un ou si sa apese pe tasta E si o sa primeasca
+La acest eveniment, se spawneaza un ou odata la <mark style="color:orange;">**30 de minute**</mark>. Dupa ce il gasiti si il colctati, o sa primiti diferite premii.
 
+## <mark style="color:orange;">**Cum pot intra la eveniment?**</mark>
 
+Nu exista vreo comanda. Odata la 30 de minute o sa apara un blips cu un semn al intrebarii si o raza pe harta. Voi trebuie sa cautati in acea raza oul si sa apasati pe tasta <mark style="color:orange;">**E**</mark> pentru a il colecta
 
-500k-1kk, 5 fl coins si 300 easter coins
+## <mark style="color:orange;">**Ce premii sunt?**</mark>
+
+Primul care o sa gaseasca oul o sa primeasca <mark style="color:orange;">**$500.000 - $1.000.000**</mark>, <mark style="color:orange;">**5 FL Coins**</mark> si <mark style="color:orange;">**300 Easter Coins**</mark>.&#x20;

@@ -26,6 +26,10 @@ Pentru a face acest lucru, apasa pe tasta <mark style="color:orange;">**Y**</mar
 
 Pentru a vedea animalele pe radar, apasa pe tasta <mark style="color:orange;">**Y**</mark>, iar pentru a iti aduce masina la tine, apasa pe tasta <mark style="color:orange;">**H**</mark>.&#x20;
 
+## <mark style="color:orange;">**Ce fac daca o sa mor neintentionat?**</mark>
+
+Ne-am gandit si la acest lucru si iti punem la dispozitie comanda \[<mark style="color:orange;">**/reviveme**</mark>].&#x20;
+
 ## <mark style="color:orange;">**Care sunt premiile si sansele pentru fiecare animal?**</mark>
 
 ![💰](https://discord.com/assets/60e4658040396168.svg) Bani (15k-90k) – 30% ![🪙](https://discord.com/assets/63c0e0ad98a0a834.svg) 1 FL Coin – 15% ![🐣](https://discord.com/assets/682887a426743288.svg) 30–75 Easter Coins – 20% ![🎁](https://discord.com/assets/949f113339307625.svg) Giftbox reset time – 10% ![🛡️](https://discord.com/assets/51cc7794c9a923de.svg) Armură – 8% ![🔫](https://discord.com/assets/445896d2723c236e.svg) Gadget Pistol – 5% ![🔋](https://discord.com/assets/bdc2049cfd3bdfe9.svg) Gloanțe Gadget – 6% ![🔧](https://discord.com/assets/5463654530b827ec.svg) Atașament Random – 4% ![🚗](https://discord.com/assets/136310de891799f5.svg) Mașină (tolveln) – 0.7% ![🏠](https://discord.com/assets/e7f086418e908e40.svg) Custom House Ticket– 0.3%
