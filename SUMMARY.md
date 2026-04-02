@@ -1,12 +1,8 @@
 # Table of contents
 
-## Shop
-
-* [Informatii plati.](README.md)
-
 ## INFORMATII UTILE <a href="#info" id="info"></a>
 
-* [Despre noi.](<README (1).md>)
+* [Despre noi.](README.md)
 * [Autentificare.](info/despre-noi-1.md)
 * [Regulamente](info/regulament-general/README.md)
   * [Regulament general.](info/regulament-general/regulament-general.md)
@@ -91,3 +87,7 @@
 * [Gun Shop](businesses/gun-shop.md)
 * [PNS](businesses/pns.md)
 * [Tattos Shop](businesses/tattos-shop.md)
+
+## Shop
+
+* [Informatii plati.](<README (1).md>)

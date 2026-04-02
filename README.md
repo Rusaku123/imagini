@@ -1,56 +1,21 @@
 ---
-icon: money-bills
+description: >-
+  Aici o sa oferim o scurta descriere despre noi, cu ce ne ocupam si ce scop
+  avem.
+icon: info
 ---
 
-# Informatii plati.
+# Despre noi.
 
-***
+{% hint style="info" %}
+<mark style="color:orange;">**Cine suntem noi?**</mark>
+{% endhint %}
 
-## <mark style="color:orange;">**Unde sunt toate categoriile de plată**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">și unde se fac plățile?</mark>
+### Flame Romania
 
-Toate plățile se fac exclusiv prin [<mark style="color:orange;">**Tebex-ul oficial al serverului**</mark>](https://app.gitbook.com/u/fDm2WFEtwPg9l4sAfZu0TpVwtsz1)**.**
+Suntem un server infiintat pe data de **30 iulie 2025** de catre Rusaku si redeschis pe data de **21 martie 2026**, care a prioritizat mereu parerea jucatorilor, care a ales sa faca un server pe placul tuturor jucatorilor si un server care nu este pentru donatii. Si da, ne mandrim cu asta! Pe acest server nu vei vedea niciodata staff imatur, wipe sau alte lucruri de genul.
 
-<details>
+### Comunitatea noastra
 
-<summary>De ce plățile se fac doar pe Tebex?</summary>
+Vrem ca fiecare membru sa fie bine-primit la noi pe server si facem eforturi constante pentru asta! Nu sunteti doar niste jucatori, sunteti niste membri ai familiei deja si parte din proiectul Flame! Sunteti extrem de speciali pentru noi, iar pentru asta va invitam pe [<mark style="color:orange;">discord-ul nostru.</mark>](https://discord.gg/flamerp/)
 
-Plățile se fac doar pe [<mark style="color:orange;">**Tebex**</mark> ](https://store.flamerp.ro/)deoarece, începând cu 2021, **CFX** (platforma FiveM) a stabilit că Tebex este singura platformă oficial aprobată pentru monetizarea serverelor. Aceasta asigură conformitatea cu termenii și condițiile CFX și protejează atât proprietarii de servere, cât și jucătorii, oferind un sistem sigur și centralizat pentru toate tranzacțiile.
-
-> <mark style="color:orange;">**„Tebex is the only approved website by CFX.”**</mark> **– CFX.re**
-
-</details>
-
-***
-
-## <mark style="color:orange;">**Care sunt metodele de plată?**</mark>
-
-Toate metodele de plată se pot afla la checkout-ul unui produs din shop, dar și apăsând pe butonul de mai jos. În principal, metodele principale sunt Card, PayPal, Google Pay, etc.
-
-<details>
-
-<summary>Toate metodele de plată.</summary>
-
-<figure><img src=".gitbook/assets/image (5).png" alt="" width="269"><figcaption></figcaption></figure>
-
-
-
-<figure><img src=".gitbook/assets/image (6).png" alt="" width="264"><figcaption></figcaption></figure>
-
-<figure><img src=".gitbook/assets/image (7).png" alt="" width="270"><figcaption></figcaption></figure>
-
-</details>
-
-***
-
-## <mark style="color:orange;">**Politică refund.**</mark>
-
-* Nu oferim refund pentru produsele livrate în mai puțin de 48 de ore.
-* Dacă produsul nu este livrat în termen de 48 de ore, clientul poate alege între:
-  * un **credit de 150%** din suma plătită, utilizabil în shop, sau
-  * un **refund integral** prin metoda de plată folosită.
-  * <mark style="color:$warning;">**Excepție**</mark>**:** Plățile prin Paysafe vor fi returnate pe card sau PayPal, cu o taxă de 25%.
-* În caz de <mark style="color:red;">abuz</mark> sau <mark style="color:red;">ban permanent</mark>, beneficiile se pierd și suma nu va fi returnată.
-
-***
-
-<mark style="color:orange;">**Mulțumim pentru citirea acestor informații. Dacă aveți și alte nelămuriri, îl puteți contacta direct pe Rusaku pe**</mark> [<mark style="color:orange;">**Discord**</mark>](https://dsc.gg/flamero1)<mark style="color:orange;">**.**</mark>
