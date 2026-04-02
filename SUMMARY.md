@@ -25,6 +25,12 @@
   * [Window Cleaning.](introducere/jobs/window-cleaning..md)
 * [Cod Penal.](introducere/cod-penal..md)
 
+## EASTER EVENTS
+
+* [Lucky Easter](easter-events/lucky-easter.md)
+* [Easter Hunt](easter-events/easter-hunt.md)
+* [Air Egg](easter-events/air-egg.md)
+
 ## ACTIVITATI
 
 * [Market Rob](activitati/market-rob.md)
@@ -39,6 +45,7 @@
 * [Quest-urile de inceput](general/quest-urile-de-inceput.md)
 * [Rentals](general/rentals.md)
 * [Shop](general/shop.md)
+* [Easter Shop](general/easter-shop.md)
 * [FPS Boost](general/fps-boost.md)
 * [Spitale](general/spitale.md)
 
@@ -63,14 +70,7 @@
 
 * [Informatii mafii](mafii/informatii-mafii.md)
 * [Gang Activities](mafii/gang-activities.md)
-* [Air Box](mafii/air-box.md)
 * [Turfs](mafii/turfs.md)
-
-## EVENIMENTE
-
-* [Lucky Easter](evenimente/lucky-easter.md)
-* [Easter Hunt](evenimente/easter-hunt.md)
-* [Air Egg](evenimente/air-egg.md)
 
 ## FACTIUNI
 
@@ -86,7 +86,6 @@
 * [24/7](businesses/24-7.md)
 * [Bank](businesses/bank.md)
 * [Barber Shop](businesses/barber-shop.md)
-* [Clothing Store](businesses/clothing-store.md)
 * [CNN](businesses/cnn.md)
 * [Gas Station](businesses/gas-station.md)
 * [Gun Shop](businesses/gun-shop.md)

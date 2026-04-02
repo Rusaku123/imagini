@@ -1,6 +1,0 @@
----
-icon: egg
----
-
-# Lucky Easter
-
